@@ -14,4 +14,4 @@ edit the keymaps/default/keymap.c for keybindings, config.h for MCU pinouts, and
 
 Compile using, qmk compile -kb mysterium_elias -km default
 
-Alternatively, the .hex file to flash directly
+Alternatively, the .hex file is already in here. If there are no changes you can use that directly
